@@ -7,4 +7,4 @@ This repository contains the Arduino sketch for the drive itself, and a simple
 application permitting command-line interaction from a Linux host machine via
 USB serial connection.
 
-See http:/www.cassettepunk.com for more information.
+See http://www.cassettepunk.com for more information.
